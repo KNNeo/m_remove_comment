@@ -1,5 +1,5 @@
 # m_remove_comment
-A simple comment remover for MATLAB .m files
+A simple line comment remover for MATLAB .m files. Will remove any amount of comment for any number of lines. Will also check for empty spacing eg. newline and extra spacing/tabs between comments (NOTE: This does not remove multi-line comments "%{" and "%}")
 
 Created executable using PyInstaller, compiled from m_remove_comment.py
 
