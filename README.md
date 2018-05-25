@@ -5,3 +5,5 @@ Created executable using PyInstaller, compiled from m_remove_comment.py
 
 * Executable is at /dist/m_remove_comments.exe
 * Procedure: Opens dialog for source file, when ends opens up same directory as source file
+
+[24/5/2018] Initial commit
